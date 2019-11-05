@@ -1,0 +1,20 @@
+{
+  "name": "edverify",
+  "version": "1.0.0",
+  "description": "edveirfy test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "github.com/ali-sharif",
+  "license": "ISC",
+  "dependencies": {
+    "aion-web3": "^1.2.6-beta.2",
+    "aion-web3-eth-accounts": "^1.2.6-beta.2",
+    "aion-web3-utils": "^1.2.6-beta.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
