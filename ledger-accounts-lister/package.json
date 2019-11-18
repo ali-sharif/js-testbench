@@ -1,0 +1,20 @@
+{
+  "name": "ledger-accounts-lister",
+  "version": "0.1.1",
+  "description": "lists accounts in a connected ledger",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "ledger"
+  ],
+  "author": "github.com/ali-sharif",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "blake2b": "^2.1.3",
+    "crypto": "^1.0.1",
+    "tweetnacl": "^1.0.1"
+  }
+}
